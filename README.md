@@ -2,9 +2,6 @@
 
 <img width="1933" height="1477" alt="Screenshoot" src="https://github.com/user-attachments/assets/5ee780ab-80c2-4e89-9517-e2df7838fc29" />
 
-
-🇩🇪 [Deutsche Version](README.de.md)
-
 Simple File Renamer renames many files at once – with a live preview, presets and undo.
 The app is **portable**: there is no setup, it runs straight from its folder and needs **no administrator rights**.
 
